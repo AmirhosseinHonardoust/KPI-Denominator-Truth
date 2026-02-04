@@ -8,7 +8,7 @@
 ![Theme](https://img.shields.io/badge/Theme-Denominator%20Drift%20%26%20Eligibility-red)
 ![Level](https://img.shields.io/badge/Level-Senior%20Analytics-purple)
 ![Format](https://img.shields.io/badge/Format-Framework%20%2B%20Checklist-green)
-
+ 
 </div>
  
 --- 
