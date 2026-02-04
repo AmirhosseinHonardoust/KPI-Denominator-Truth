@@ -10,9 +10,9 @@
 ![Format](https://img.shields.io/badge/Format-Framework%20%2B%20Checklist-green)
 
 </div>
-   
+
 --- 
-  
+
 Most KPI disasters don’t happen because someone used the wrong chart.
 
 They happen because someone used the **wrong denominator** and nobody noticed until the business made decisions on an illusion.
