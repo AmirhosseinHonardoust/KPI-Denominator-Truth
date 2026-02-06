@@ -18,7 +18,7 @@ Most KPI disasters don’t happen because someone used the wrong chart.
 They happen because someone used the **wrong denominator** and nobody noticed until the business made decisions on an illusion.
 
 If you’ve ever seen any of these:
-
+ 
 - “Conversion rate dropped overnight but revenue is fine.”
 - “Retention improved but support tickets exploded.”
 - “DAU is stable but growth feels dead.”
