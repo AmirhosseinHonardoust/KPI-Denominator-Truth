@@ -2,7 +2,7 @@
   <h1 align="center">Your KPI is Lying Because Your Denominator is Wrong </h1>
     <p align="center">
 <div align="center"> 
-   
+    
 ![Article](https://img.shields.io/badge/Type-Longform%20Article-black)
 ![Focus](https://img.shields.io/badge/Focus-Analytics%20%26%20KPI%20Design-blue)
 ![Theme](https://img.shields.io/badge/Theme-Denominator%20Drift%20%26%20Eligibility-red)
